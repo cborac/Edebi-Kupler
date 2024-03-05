@@ -1,70 +1,78 @@
 [
-     {
-          "question": "Vatan Yahut Silistre",
-          "answer": "Namık Kemal"
-     },
-     {
-          "question": "Gülnihal",
-          "answer": "Namık Kemal"
-     },
-     {
-          "question": "Kara Bela",
-          "answer": "Namık Kemal"
-     },
-     {
-          "question": "Zavallı Çocuklar",
-          "answer": "Namık Kemal"
-     },
-     {
-          "question": "Şair Evlenmesi",
-          "answer": "Şinasi"
-     },
-     {
-          "question": "Müntehabat-ı Eş'arım",
-          "answer": "Şinasi"
-     },
-     {
-          "question": "Durub-ı Emsali Osmaniye",
-          "answer": "Şinasi"
-     },
-     {
-          "question": "Fatin Tezkiresi",
-          "answer": "Şinasi"
-     },
-     {
-          "question": "Telemak",
-          "answer": "Yusuf Kâmil Paşa"
-     },
-     {
-          "question": "İlk Yerli Roman",
-          "answer": "Taaşşuk-ı Talat ve Fitnat"
-     },
-     {
-          "question": "Taaşşuk-ı Talat ve Fitnat",
-          "answer": "Şemsettin Sami"
-     },
-     {
-          "question": "Hece ile ilk Manzum Tiyatro",
-          "answer": "Binnaz"
-     },
-     {
-          "question": "İlk Hamse Sahibi",
-          "answer": "Ali Şir Nevaî"
-     },
-     {
-          "question": "A",
-          "answer": "B"
-     },
-     {
-          "question": "D",
-          "answer": "E"
-     },
-     {
-          "question": "F",
-          "answer": "G"
-     },
-     {
-          "question": "H",
-          "answer": "J"
-     }
+  {
+    "question": "... büyük, ot yer; şahin küçük, et yer.",
+    "answer": "Şahin"
+  },
+  {
+    "question": "...i düğüne çağırmışlar, ya odun eksik, ya su” demiş.",
+    "answer": "Eşek"
+  },
+  {
+    "question": "Isıracak …… dişini göstermez.",
+    "answer": "Köpek"
+  },
+  {
+    "question": "... uzanamadığı ciğere “pis” der.",
+    "answer": "Kedi"
+  },
+    {
+        "question": "Kasap et derdinde, … can derdinde.",
+        "answer": "Koyun"
+    },
+    {
+        "question": "…ye “bir oyna” demişler, damı, çardağı yıkmış.",
+        "answer": "Deve"
+    },
+    {
+        "question": "Aç ……… kendini buğday ambarında sanır.",
+        "answer": "Tavuk"
+    },
+    {
+        "question": "Kötü söz adamı dinden çıkarır, tatlı söz ………ı inden çıkarır.",
+        "answer": "Yılan"
+    },
+    {
+        "question": "Harman döven ……ün ağzı bağlanmaz.",
+        "answer": "Öküz"
+    },
+    {
+        "question": ".…ye ”inişi mi seversin, yokuşu mu?” demişler; ”düz yere mi kıran mı girdi?” demiş.",
+        "answer": "Deve"
+    },
+    {
+        "question": "Bey ….si gibi yan gelip geviş getirmek.",
+        "answer": "Deve"
+    },
+    {
+        "question": "Attan inip …….e binmek.",
+        "answer": "Eşek"
+    },
+    {
+        "question": "…..e “hoşt”, kediye “pist” dememek",
+        "answer": "Köpek"
+    },
+    {
+        "question": "…… ciğere bakar gibi bakmak.",
+        "answer": "Kedi"
+    },
+    {
+        "question": "……un kaval dinler gibi dinlemek.",
+        "answer": "Koyun"
+    },
+    {
+        "question": "Hatır için çiğ …… yemek.",
+        "answer": "Tavuk"
+    },
+    {
+        "question": "Uyuyan ……ın kuyruğuna basmak.",
+        "answer": "Yılan"
+    },
+    {
+        "question": "……ün trene baktığı gibi bakmak.",
+        "answer": "Öküz"
+    },
+    {
+        "question": "Pireyi …… yapmak.",
+        "answer": "Deve"
+    }
 ]

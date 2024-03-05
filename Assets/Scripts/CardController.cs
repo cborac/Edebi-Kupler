@@ -31,6 +31,13 @@ public class CardController : MonoBehaviour
 
             textObject.GetComponent<TextMeshProUGUI>().text = ((EdebiCubeSide)field.GetValue(cube)).Answer.Replace("-", "<nobr>-</nobr>");
         }
+
+        foreach (var field in typeof(EdebiCube).GetFields())
+        {
+            GameObject textObject = transform.Find($"{field.Name.ToUpper()}/Canvas/Image").gameObject;
+
+            textObject.GetComponent<Image>().text = ((EdebiCubeSide)field.GetValue(cube)).Answer;
+        }
     }
 
     public void Deploy()

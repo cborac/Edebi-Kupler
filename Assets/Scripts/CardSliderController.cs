@@ -44,7 +44,7 @@ public class CardSliderController : MonoBehaviour
                         isDeploying = true;
                         (hit.collider.gameObject.GetComponent<CardController>() ?? hit.collider.gameObject.GetComponentInParent<CardController>()).Deploy();
                     }
-                } else transform.position = new Vector3(touch.deltaPosition.x * .001f, 0, 0) + transform.position;
+                } else transform.position = new Vector3(touch.deltaPosition.x * .003f, 0, 0) + transform.position;
             }
 
             if (touch.phase == TouchPhase.Ended)
